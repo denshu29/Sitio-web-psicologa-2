@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: url('25133.jpg') no-repeat;
+    background-size: cover;
+}
+
+.video-container, .form-container {
+    margin-bottom: 20px;
+}
+
+.container{
+    margin-top: 80px;
+    padding-top: 30px;
+    position: relative;
+    width: 80%;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-radius: 20px;
+    backdrop-filter: blur(20px);
+    box-shadow: 0 0 30px rgba(0, 0, 0, .5);
+}
+
+.video-container .video-placeholder video{
+    width: 100%;
+}

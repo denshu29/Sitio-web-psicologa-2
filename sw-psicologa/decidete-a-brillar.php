@@ -1,0 +1,105 @@
+<?php
+session_start();
+$usuarioLogueado = isset($_SESSION['usuario']);
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="css/decidete-a-brillar.css">
+</head>
+<body>
+    <div id="left-area">
+        <article class="entry-content clearfix">
+        <div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="none" data-float-mobile="none" data-transition="slide" data-post-id="3069"><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Compartir</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Dec%C3%ADdete+a+Brillar&amp;url=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F&amp;via=SaludableMenteP" data-link="https://twitter.com/intent/tweet?text=Dec%C3%ADdete+a+Brillar&amp;url=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F&amp;via=SaludableMenteP"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Twittear</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+        e.setAttribute('type','text/javascript');
+        e.setAttribute('charset','UTF-8');
+        e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+        document.body.appendChild(e);
+        "><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><p><a href="https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_.jpg" rel="attachment wp-att-3200"><img fetchpriority="high" decoding="async" class="aligncenter size-full wp-image-3200" src="https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_.jpg" alt="DecIdete a Brillar_" width="1700" height="925" srcset="https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_.jpg 1700w, https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_-300x163.jpg 300w, https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_-768x418.jpg 768w, https://saludablementepsicologia.es/wp-content/uploads/2016/01/DecIdete-a-Brillar_-1024x557.jpg 1024w" sizes="(max-width: 1700px) 100vw, 1700px"></a>
+        </p><p style="text-align: justify;"><a href="https://es.wikipedia.org/wiki/Nelson_Mandela" target="_blank" rel="noopener noreferrer"><strong>Nelson Mandela,</strong></a> después de 27 años en la cárcel y de ser elegido en 1994 presidente de Sudáfrica,&nbsp;compartió con el mundo uno de sus poemas favoritos, escrito por <strong><span style="color: #008080;"><em>Marianne Williamson:&nbsp;</em></span></strong></p>
+        <p style="text-align: justify;"><strong><span style="color: #008080;"><em>“Nuestro temor más profundo no es que seamos inadecuados.&nbsp;</em></span></strong><strong style="text-align: center; line-height: 1.5;"><span style="color: #008080;"><em>Nuestro temor más profundo es que somos excesivamente poderosos.&nbsp;</em></span></strong><strong><span style="color: #008080;"><em>Es nuestra luz, y no nuestra oscuridad, la que nos atemoriza.&nbsp;</em></span></strong><strong style="text-align: center; line-height: 1.5;"><span style="color: #008080;"><em>Nos preguntamos: ¿quién soy yo para ser brillante, magnífico, talentoso y fabuloso?&nbsp;</em></span></strong><strong><span style="color: #008080;"><em>En realidad, ¿quién eres para no serlo?&nbsp;</em></span></strong><strong style="text-align: center; line-height: 1.5;"><span style="color: #008080;"><em>Infravalorándote no ayudas al mundo.&nbsp;</em></span></strong><strong><span style="color: #008080;"><em>No hay nada de instructivo en encogerse para que otras personas no se sientan inseguras cerca de ti.&nbsp;</em></span></strong><strong style="text-align: center; line-height: 1.5;"><span style="color: #008080;"><em>Esta grandeza de espíritu no se encuentra solo en algunos de nosotros; está en todos.&nbsp;</em></span></strong><strong><span style="color: #008080;"><em>Y al permitir que brille nuestra propia luz,&nbsp;</em></span></strong><strong style="text-align: center; line-height: 1.5;"><span style="color: #008080;"><em>de forma tácita estamos dando a los demás permiso para hacer lo mismo.&nbsp;</em></span></strong><strong><span style="color: #008080;"><em>Al liberarnos de nuestro propio miedo, automáticamente nuestra presencia libera a otros”.</em></span></strong></p>
+        <p style="text-align: justify;">¿No te parece estimulante? Jamás nos dijeron <em><strong>¡Decídete a Brillar!&nbsp;</strong></em></p>
+        <blockquote><p>
+        </p><h2 style="text-align: justify;"><strong>¿Qué es y cómo podemos Brillar?&nbsp;</strong></h2>
+        </blockquote>
+        <p><strong>Hay varios aspectos clave para poder brillar:&nbsp;</strong></p>
+        <ul>
+        <li style="text-align: justify;"><strong>El talento.&nbsp;</strong>Brillamos cuando conectamos y ponemos en marcha nuestro talento, cuando hacemos lo que amamos, cuando vivenciamos lo que mejor se nos da, cuando damos luz a nuestra faceta más brillante, la que nos permite <strong><span style="color: #008080;"><em><a href="https://saludablementepsicologia.es/2014/06/30/fluir-la-felicidad-como-flujo/" target="_blank" rel="noopener noreferrer">fluir</a></em></span></strong>.</li>
+        <p>	</p><li style="text-align: justify;"><strong>La autenticidad.</strong> Pero también brillamos cuando, sencillamente, somos, con la mayor libertad posible, en el sentido de tener el menor número de condicionamientos posible, la menor cantidad de trabas y lastres. Ocurre cuando nos liberamos de esquemas mentales (educativos, culturales, religiosos, etc.) que nos esclavizan y limitan restándonos luz y oportunidades. Brillamos cuando somos fieles a nosotros mismos y optimizamos nuestro ser escuchando nuestra naturaleza en su sentido más holístico o global, más sistémico, para llegar a ser la mejor versión de nosotros mismos, la única y más plena.</li>
+        </ul>
+        <p style="text-align: justify;"><strong><span style="color: #008080;"><em>Cuando brillamos estamos llenos de vitalidad, plenos de entusiasmo, repletos de ganas. Pero también estamos llenos de calma, sólidos, en conexión con nosotros mismos.</em></span></strong></p>
+        <p><strong>¿No deberías tratar de brillar con toda tu individualidad y con todas tus fuerzas desde ya mismo?</strong></p>
+        <blockquote><p>
+        </p><h2 style="text-align: justify;"><strong>Aprendiendo a Brillar</strong></h2>
+        </blockquote>
+        <p style="text-align: justify;"><strong>Hay algunas pautas que puedo recomendarte para que lo consigas: &nbsp;</strong></p>
+        <ul>
+        <li style="text-align: justify;"><strong>Conócete. </strong>Condición indispensable es que te conozcas, que te observes, que sepas con qué actividades disfrutas, te revitalizas, te sientes plenamente vivo/a.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Cree en ti. </strong>El factor clave para que desarrolles esta pauta es la <strong><em>autoeficacia</em></strong>. <span style="color: #008080;"><em>Bandura</em></span> defiende que,&nbsp;<strong><span style="color: #008080;"><em>“creer en uno mismo no necesariamente asegura el éxito, pero no creer en uno mismo sin duda lleva al fracaso”</em>.&nbsp;</span></strong>Cuando crees en ti sientes afecto positivo, aumenta tu <strong><em>motivación</em> </strong>y tu capacidad de <strong><em>acción</em>.</strong></li>
+        <p>	</p><li style="text-align: justify;"><strong style="line-height: 1.5;">Sé determinado/a. </strong><span style="line-height: 1.5;">La capacidad de sacrificar el placer a corto plazo por el beneficio a largo plazo te llevará al éxito. La&nbsp;</span><strong style="line-height: 1.5;"><em>determinación</em></strong><span style="line-height: 1.5;">, es una combinación de </span><strong style="line-height: 1.5;"><em>persistencia</em></strong><span style="line-height: 1.5;"> y </span><strong style="line-height: 1.5;"><em>pasión</em></strong><span style="line-height: 1.5;"> muy elevadas por alcanzar un objetivo. Debemos esforzarnos y trabajar para que nuestro talento pueda desarrollarse en el día a día.</span></li>
+        <p>	</p><li style="text-align: justify;"><strong>Sé auténtico/a. </strong>La autenticidad implica la sencillez de conocerse, de quitarse capas, para ser tu yo esencial.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Florece.</strong> Vive tu mejor versión. Crea tus pensamientos más elevados, tus sentimientos y comportamientos más acordes a quien eres y a quien quieres ser, en el sentido de superar tus propias autolimitaciones, siendo fiel a tus valores y principios.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Conecta con el presente. </strong>Sentirte integrado en el presente, mente y cuerpo, sin dejar que tu mente vague hacia el pasado ni hacia el futuro, te aportará bienestar, reforzará tu <em><strong>individualidad</strong></em> y aumentará tu <strong><em>presencia</em></strong>.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Actúa. </strong>Pasa a la acción. La comprensión intelectual de lo que te gustaría hacer no es suficiente. Debes hacerlo, actuar hacia tu meta todo el tiempo, desde que te levantas hasta que te acuestas, sin obsesionarte pero sin perder una perspectiva más amplia desde la que visualizar hacia dónde te diriges.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Visualízate.</strong> Imagina cómo te sentirás cuando lo logres, cómo pensarás y actuarás, y <strong><em>llénate de ganas</em></strong>.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Sé consciente. </strong>Si te das cuenta del proceso podrás avanzar en tu desarrollo personal, ganarás confianza y cada vez brillarás con más frecuencia, más tiempo e intensidad.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Acepta. </strong>Acepta tu naturaleza, acepta cómo te sientes y parte de la realidad para crecer, para ser, con todo tu esplendor.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Escúchate. </strong>Deja un tiempo cada día para escucharte, para estar a solas, en contacto contigo.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Quiérete. </strong>Trátate bien, háblate con amabilidad, sé tu mayor aliado/a, con virtudes y defectos.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Cuídate. </strong>Conoce tu propia naturaleza, respétala y poténciala, en cada una de las acciones que realizas en el día.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Ilusiónate.&nbsp;</strong>Llénate de ilusión: que tus sueños sean más grandes que tus miedos. Las emociones positivas te movilizarán.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Automotívate.</strong> Tira de motivación, de convicción mejor que de voluntad.</li>
+        </ul>
+        <blockquote>
+        <h2><strong>Venciendo el Miedo</strong></h2>
+        </blockquote>
+        <p style="text-align: justify;">Un proverbio chino dice <span style="color: #008080;"><strong><em>«Quien teme sufrir ya sufre el temor».</em></strong></span>&nbsp;El miedo nos roba oportunidades y está detrás de la mayor parte de problemas psicológicos. Poner en agenda el miedo para afrontarlo y superarlo es una excelente estrategia para acabar con él. Además, te recomiendo:</p>
+        <ul>
+        <li style="text-align: justify;"><strong>Deja de quejarte. </strong>La queja te paraliza, aplaza tus sueños, te llena de excusas. Aparenta utilidad pero te mantiene lejos de lo que quieres conseguir. No pierdas tiempo quejándote. Al menos no caigas en su trampa indefinidamente. Quéjate un tiempo y, cuando te sacies, busca soluciones.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Deja de pedir opinión. </strong>Si te sientes débil o con dudas debes dejar de encuestar a tu entorno, tus amigos y gente de confianza, porque seguirás sintiéndote débil y dependiente. Arriésgate. Tú decides. Pase lo que pase desarrolla la entereza de aceptar las consecuencias de tus decisiones: positivas o negativas. Es la única vía para que ganes seguridad y <strong><em>autoconfianza</em></strong>: apóyate en ti mismo/a, cueste lo que cueste.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Deja de evitar lo que te asusta.&nbsp;</strong>Cada vez que evitas lo que temes experimentas un alivio enorme a corto plazo que supone aumentar el temor mucho más la próxima vez que aparezca porque lo has evitado. Es un efecto paradójico y erróneo en tu camino hacia ser tú mismo/a.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Ten coraje.</strong> El coraje no es la ausencia de miedo sino el triunfo sobre él. Sigue avanzando a pesar del miedo.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Aprende a relajarte. </strong>Unos minutos cada día para practicar una técnica de relajación servirán para reeducar tu mente y tu cuerpo aumentando la capacidad de sentir bienestar ayudándote a liberarte del miedo.</li>
+        <p>	</p><li style="text-align: justify;"><strong>Haz meditación. </strong>Practicar meditación es una excelente vía para aumentar tu bienestar, conectar con el presente, prestar atención plena cada vez a una cosa y disciplinar tu mente haciéndola menos vulnerable, menos reactiva a todo cuanto temes. Y si la relajación y la meditación no te funcionan…</li>
+        <p>	</p><li style="text-align: justify;"><strong style="line-height: 1.5;">Inúndate de tus miedos. </strong>Busca un sitio cómodo y asegúrate de que nada te moleste. <span style="line-height: 1.5;">Inicia el día realizando una </span><em style="line-height: 1.5;">inmersión negativa<strong>&nbsp;</strong></em><span style="line-height: 1.5;">en tus miedos, en todo aquello que temes, te preocupa y/o te hace sufrir. &nbsp;Imagínalo con todo lujo de detalles: la situación en la que ocurre, cómo te sientes, qué piensas, cómo actúas, dónde estás, etc. Hazlo durante un mínimo de 30 minutos y siempre a la misma hora. El miedo es paradójico y cuando buscas sentirlo pierde su poder sobre ti, si eres constante en experimentarlo. Puedes saber más en </span><strong style="line-height: 1.5;"><em>«Adicción al Pensamiento»,</em></strong><span style="line-height: 1.5;"> libro-joya para el crecimiento personal, escrito por el psicólogo, psicoterapeuta y profesor de la Facultad de Psicología en la Universidad de Murcia, </span><strong style="line-height: 1.5;"><a href="http://pedrojara.es/" target="_blank" rel="noopener noreferrer">Pedro Jara</a></strong><span style="line-height: 1.5;">, maestro, colega y amigo, que te recomiendo.</span></li>
+        </ul>
+        <p>Te dejo un video inspirador para que venzas tus miedos y te decidas a brillar, con toda tu luz.</p>
+        <iframe width="838" height="629" src="https://www.youtube.com/embed/qTSYqRmxQaA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+        <div class="swp_social_panel swp_horizontal_panel swp_flat_fresh  swp_default_full_color swp_individual_full_color swp_other_full_color scale-100  scale-" data-min-width="1100" data-float-color="#ffffff" data-float="none" data-float-mobile="none" data-transition="slide" data-post-id="3069"><div class="nc_tweetContainer swp_share_button swp_facebook" data-network="facebook"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://www.facebook.com/share.php?u=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F" data-link="https://www.facebook.com/share.php?u=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_facebook_icon"></i><span class="swp_share">Compartir</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_twitter" data-network="twitter"><a class="nc_tweet swp_share_link" rel="nofollow noreferrer noopener" target="_blank" href="https://twitter.com/intent/tweet?text=Dec%C3%ADdete+a+Brillar&amp;url=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F&amp;via=SaludableMenteP" data-link="https://twitter.com/intent/tweet?text=Dec%C3%ADdete+a+Brillar&amp;url=https%3A%2F%2Fsaludablementepsicologia.es%2Fpsicologa-murcia%2Fdecidete-a-brillar%2F&amp;via=SaludableMenteP"><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_twitter_icon"></i><span class="swp_share">Twittear</span></span></span></span></a></div><div class="nc_tweetContainer swp_share_button swp_pinterest" data-network="pinterest"><a rel="nofollow noreferrer noopener" class="nc_tweet swp_share_link noPop" onclick="var e=document.createElement('script');
+        e.setAttribute('type','text/javascript');
+        e.setAttribute('charset','UTF-8');
+        e.setAttribute('src','//assets.pinterest.com/js/pinmarklet.js?r='+Math.random()*99999999);
+        document.body.appendChild(e);
+        "><span class="swp_count swp_hide"><span class="iconFiller"><span class="spaceManWilly"><i class="sw swp_pinterest_icon"></i><span class="swp_share">Pin</span></span></span></span></a></div></div><div class="swp-content-locator"></div>					</article> <!-- .entry -->
+        <div id="et-box-author">
+        <div id="et-bio-author">
+        <div class="author-avatar">
+        <img alt="" src="https://secure.gravatar.com/avatar/83500160547e0327de04bd84f0d7cb42?s=60&amp;d=identicon&amp;r=g" srcset="https://secure.gravatar.com/avatar/83500160547e0327de04bd84f0d7cb42?s=120&amp;d=identicon&amp;r=g 2x" class="avatar avatar-60 photo" height="60" width="60" decoding="async">							</div> <!-- end #author-avatar -->
+        <p id="author-info">
+        <strong>Autor:</strong> <a href="https://www.saludablementepsicologia.es" title="Visitar el sitio de Violeta Perán" rel="author external">Violeta Perán</a>							</p> <!-- end #author-info -->
+        <p>Apasionada de la Psicología e interesada en el funcionamiento óptimo de las personas y de las organizaciones, cuento con más de 20 años de experiencia como psicóloga, psicoterapeuta y docente, en distintos ámbitos públicos y privados, promoviendo la salud mental y el bienestar psicológico en el día a día. Soy Psicóloga Sanitaria, Psicoterapeuta Europeo en Clínica y Salud, Especialista en Psicología Positiva Aplicada, Miembro de la SEPP, Sociedad Española de Psicología Positiva, también de la Asociación EMDR España y de la Asociación EMDR Europa. Soy Psicoterapeuta EMDR especializada en Trauma Emocional y en la Reparación del Apego Seguro. Profesora oficial del MSC, Mindful Self-Compassion (Programa Oficial de entrenamiento en Mindfulness y Autocompasión). He creado SaludableMente, con consulta presencial en Murcia capital y online. Y estoy colegiada en el COP, Colegio Oficial de Psicología de la Región de Murcia.</p>
+        </div>
+        </div>
+    </div>
+    
+</body>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script>
+  $(function () {
+      var usuarioLogueado = <?php echo json_encode($usuarioLogueado); ?>;
+      if(!usuarioLogueado){
+        $('#cerrar-sesion').hide();
+        $('#iniciar-sesion').show();
+      } else {
+        $('#cerrar-sesion').show();
+        $('#iniciar-sesion').hide();
+      }
+  });
+</script>
+</html>
